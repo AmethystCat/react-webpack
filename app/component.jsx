@@ -1,4 +1,5 @@
-// import React from 'react';
+import './Component.less';
+import React from 'react';
 
 // export default class Hello extends React.Component {
 //     render() {
@@ -14,7 +15,7 @@
 //  }
 //}
 
-var React = require('react');
+//var React = require('react');
 
 var Hello = React.createClass({
   render: function () {
